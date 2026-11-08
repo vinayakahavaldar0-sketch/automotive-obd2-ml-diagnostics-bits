@@ -1,0 +1,97 @@
+[
+  {
+    "ML Model Name": "Logistic Regression",
+    "Accuracy": 0.925,
+    "AUC": 0.9702,
+    "Precision": 0.9085,
+    "Recall": 0.9214,
+    "F1": 0.9149,
+    "MCC": 0.8479,
+    "Confusion_Matrix": [
+      [
+        167,
+        13
+      ],
+      [
+        11,
+        129
+      ]
+    ]
+  },
+  {
+    "ML Model Name": "Decision Tree",
+    "Accuracy": 0.8719,
+    "AUC": 0.8679,
+    "Precision": 0.8779,
+    "Recall": 0.8214,
+    "F1": 0.8487,
+    "MCC": 0.739,
+    "Confusion_Matrix": [
+      [
+        164,
+        16
+      ],
+      [
+        25,
+        115
+      ]
+    ]
+  },
+  {
+    "ML Model Name": "kNN",
+    "Accuracy": 0.9625,
+    "AUC": 0.9881,
+    "Precision": 0.9706,
+    "Recall": 0.9429,
+    "F1": 0.9565,
+    "MCC": 0.9239,
+    "Confusion_Matrix": [
+      [
+        176,
+        4
+      ],
+      [
+        8,
+        132
+      ]
+    ]
+  },
+  {
+    "ML Model Name": "Naive Bayes",
+    "Accuracy": 0.8438,
+    "AUC": 0.9309,
+    "Precision": 0.8082,
+    "Recall": 0.8429,
+    "F1": 0.8252,
+    "MCC": 0.6845,
+    "Confusion_Matrix": [
+      [
+        152,
+        28
+      ],
+      [
+        22,
+        118
+      ]
+    ]
+  },
+  {
+    "ML Model Name": "Support Vector Machine",
+    "Accuracy": 0.975,
+    "AUC": 0.9912,
+    "Precision": 0.9783,
+    "Recall": 0.9643,
+    "F1": 0.9712,
+    "MCC": 0.9492,
+    "Confusion_Matrix": [
+      [
+        177,
+        3
+      ],
+      [
+        5,
+        135
+      ]
+    ]
+  }
+]
