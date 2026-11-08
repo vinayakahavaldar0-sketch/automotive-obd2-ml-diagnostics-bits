@@ -1,7 +1,7 @@
 # AutoPulse ML: Automotive OBD-II Engine & Powertrain Fault Classification
 
 **Course:** M.Tech (Data Science and Engineering) — Machine Learning (BITS Pilani WILP)  
-**Live Streamlit App:** [https://auto-obd2-fault-classifier-bits.streamlit.app/](https://auto-obd2-fault-classifier-bits.streamlit.app/)  
+**Live Streamlit App:** 'https://auto-obd2-fault-classifier-bits.streamlit.app/'
 
 ---
 
@@ -34,7 +34,7 @@ Modern connected vehicles rely on On-Board Diagnostics II (OBD-II) and CAN-bus e
 ---
 
 ## c. GitHub Repository Link
-* **Repository URL:** `https://github.com/<your-github-username>/automotive-obd2-ml-diagnostics-bits`
+* **Repository URL:** `https://github.com/vinayakahavaldar0-sketch/automotive-obd2-ml-diagnostics-bits`
 
 ---
 
